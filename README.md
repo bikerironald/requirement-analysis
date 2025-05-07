@@ -96,6 +96,7 @@ A use case diagram typically includes:
 - Guides Design and Testing: Provides a foundation for system design, user stories, and test case development.
 
 Use Case Diagrams are especially useful during early stages of requirement analysis to build a shared understanding between developers and stakeholders.
-
-![alx-booking-uc.png](https://github.com/user-attachments/assets/3e14c1af-a23f-4900-b9d3-0d22a50dcbea)
+ 
+alx-booking-uc.png
+![alx-booking-uc.png](https://github.com/user-attachments/assets/67deae2f-5d10-4aec-83e7-5bc17405bd54)
 
