@@ -34,19 +34,19 @@ When requirements are clearly understood and documented, the development team ca
 
 Requirement Analysis involves several critical activities that help ensure a clear, accurate, and complete understanding of what the software must achieve. Below are the five key activities typically involved:
 
-- Requirement Gathering**  
+- Requirement Gathering  
   The process of collecting high-level needs and expectations from stakeholders. This includes initial conversations, interviews, surveys, and reviewing existing systems or documentation.
 
-- Requirement Elicitation**  
+- Requirement Elicitation 
   A more detailed and structured approach to uncovering stakeholder needs. Techniques such as brainstorming, workshops, use case development, and observation are used to draw out both stated and hidden requirements.
 
-- Requirement Documentation**  
+- Requirement Documentation 
   Capturing and organizing the gathered information into formal documents such as the Software Requirements Specification (SRS), user stories, or business requirement documents (BRDs). This step ensures requirements are accessible, traceable, and understandable by all stakeholders.
 
-- Requirement Analysis and Modeling**  
+- Requirement Analysis and Modeling  
   Analyzing the documented requirements for feasibility, consistency, and completeness. This may include modeling the system using diagrams like Data Flow Diagrams (DFDs), Unified Modeling Language (UML), or Entity-Relationship Diagrams (ERDs) to visualize relationships and workflows.
 
-- Requirement Validation**  
+- Requirement Validation
   Ensuring that documented requirements accurately reflect stakeholder needs and are realistic, testable, and aligned with project goals. This step often involves walkthroughs, reviews, and sign-off meetings with stakeholders.
 
 Each of these activities plays a vital role in building a clear foundation for successful software design and implementation.
