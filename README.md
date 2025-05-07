@@ -50,3 +50,29 @@ Requirement Analysis involves several critical activities that help ensure a cle
   Ensuring that documented requirements accurately reflect stakeholder needs and are realistic, testable, and aligned with project goals. This step often involves walkthroughs, reviews, and sign-off meetings with stakeholders.
 
 Each of these activities plays a vital role in building a clear foundation for successful software design and implementation.
+
+#Types of Requirements
+
+Software requirements are broadly categorized into two types: Functional and Non-functional.
+
+#Functional Requirements
+
+These define what the system should do.
+
+Examples for a Booking Management System:
+- Create, update, and cancel bookings.
+- User registration and login.
+- Email confirmation after booking.
+- Real-time availability updates.
+
+# Non-functional Requirements
+
+These define how the system performs.
+
+Examples for a Booking Management System:
+- 99.9% system uptime.
+- Email confirmations sent within 30 seconds.
+- Support for 10,000+ users simultaneously.
+- Data encryption in transit and at rest.
+- Mobile-responsive user interface.
+
