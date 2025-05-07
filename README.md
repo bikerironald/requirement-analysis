@@ -76,3 +76,24 @@ Examples for a Booking Management System:
 - Data encryption in transit and at rest.
 - Mobile-responsive user interface.
 
+# Use Case Diagrams.
+#Use Case Diagrams in Requirement Analysis
+
+# What are Use Case Diagrams?
+
+Use Case Diagrams are visual representations used in requirement analysis to show how different users (actors) interact with a system. They illustrate the system's functional requirements by mapping out the main processes (use cases) the system must support and who is involved in each.
+
+A use case diagram typically includes:
+- Actors: Users or other systems interacting with the application.
+- Use Cases: Specific actions or functions the system performs.
+- System Boundar: Defines the scope of the system being modeled.
+
+# Benefits of Use Case Diagrams
+
+- Clarifies System Scope: Helps identify what the system should do and what lies outside its boundaries.
+- Improves Communication: Offers a simple visual that’s easy for both technical and non-technical stakeholders to understand.
+- Supports Requirement Validation: Ensures that all user interactions are accounted for.
+- Guides Design and Testing: Provides a foundation for system design, user stories, and test case development.
+
+Use Case Diagrams are especially useful during early stages of requirement analysis to build a shared understanding between developers and stakeholders.
+https://drive.google.com/file/d/1FTS_3kd9eeYjBb3yF5beYn6uHrc5aJOX/view?usp=sharing
