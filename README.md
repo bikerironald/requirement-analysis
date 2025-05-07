@@ -95,8 +95,33 @@ A use case diagram typically includes:
 - Supports Requirement Validation: Ensures that all user interactions are accounted for.
 - Guides Design and Testing: Provides a foundation for system design, user stories, and test case development.
 
+
+
 Use Case Diagrams are especially useful during early stages of requirement analysis to build a shared understanding between developers and stakeholders.
  
 alx-booking-uc.png
 ![alx-booking-uc.png](https://github.com/user-attachments/assets/67deae2f-5d10-4aec-83e7-5bc17405bd54)
+
+#Acceptance Criteria
+
+Acceptance Criteria are specific conditions that a software feature must meet to be considered complete and acceptable by the stakeholders. They help ensure that requirements are clear, testable, and aligned with user expectations.
+
+Why Acceptance Criteria Matter
+
+- Define the scope of a feature
+- Ensure a shared understanding between developers, testers, and stakeholders
+- Help guide development and testing
+- Reduce ambiguity and miscommunication
+
+Example: Checkout Feature (Booking Management System)
+
+Feature: Checkout
+
+Acceptance Criteria:
+- User must be able to view booking summary before payment
+- User can select a payment method (credit card, mobile money)
+- System must process payment and confirm booking
+- Confirmation message and receipt are sent to the user via email
+
+If all these conditions are met, the Checkout feature is considered complete.
 
